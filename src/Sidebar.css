@@ -1,0 +1,36 @@
+.sidebar {flex:0.3; border-right: 1px solid #cfcfcf;}
+
+.sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.sidebar-header-right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 10vw;
+}
+
+.sidebar-search input {
+    border: unset;
+    padding: 0.7rem;
+    min-width: 70%;
+}
+
+.sidebar-search svg.MuiSvgIcon-root {
+    color: #2b2b2b;
+}
+
+.sidebar-search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid gray;
+}
+
+.sidebar-chat {
+    flex:1;
+    overflow: scroll;
+}
