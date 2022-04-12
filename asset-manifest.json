@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/monster-chat/static/css/main.3c414f6a.css",
-    "main.js": "/monster-chat/static/js/main.ea253348.js",
+    "main.js": "/monster-chat/static/js/main.33e1092e.js",
     "index.html": "/monster-chat/index.html",
     "main.3c414f6a.css.map": "/monster-chat/static/css/main.3c414f6a.css.map",
-    "main.ea253348.js.map": "/monster-chat/static/js/main.ea253348.js.map"
+    "main.33e1092e.js.map": "/monster-chat/static/js/main.33e1092e.js.map"
   },
   "entrypoints": [
     "static/css/main.3c414f6a.css",
-    "static/js/main.ea253348.js"
+    "static/js/main.33e1092e.js"
   ]
 }
